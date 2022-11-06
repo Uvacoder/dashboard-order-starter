@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/order-dashboard/static/js/main.e7a09cc6.js",
+    "index.html": "/order-dashboard/index.html",
+    "main.e7a09cc6.js.map": "/order-dashboard/static/js/main.e7a09cc6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e7a09cc6.js"
+  ]
+}
